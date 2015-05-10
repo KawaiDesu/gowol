@@ -18,11 +18,11 @@ var (
 
 const (
 	// This should not appear at all while program compiles correctly.
-	ERR_INTERNAL := -1
+	ERR_INTERNAL = -1
 	// Something wrong in flags
-	ERR_PARAM    := 1
+	ERR_PARAM    = 1
 	// Network connection problem
-	ERR_NETWORK  := 2
+	ERR_NETWORK  = 2
 	
 )
 
